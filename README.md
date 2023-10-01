@@ -4,7 +4,8 @@
 
 Hi!! 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinayak-0017" alt="vinayak-0017" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinayak-0017" alt="vinayak-0017" 
+                                                                             https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=chalk/></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
