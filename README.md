@@ -1,6 +1,6 @@
 # 🏂 Vinayak...
 
-**`Developer`**
+**`Fullstack Developer`**
 
 Hi!! 
 </a> </p>
