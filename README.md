@@ -5,7 +5,7 @@
 Hi!! 
 </a> </p>
   
-![](https://komarev.com/ghpvc/?username=vinayak0017&color=red&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=vinayak-0017&color=red&style=for-the-badge)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
