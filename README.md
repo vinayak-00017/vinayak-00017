@@ -4,6 +4,7 @@
 
 Hi!!
 </a> </p>
+<a href="https://wakatime.com/@8aec3fcb-7c54-4905-a611-7c8976532c42"><img src="https://wakatime.com/badge/user/8aec3fcb-7c54-4905-a611-7c8976532c42.svg" alt="Total time coded since Sep 25 2022" /></a>
   
 
 
