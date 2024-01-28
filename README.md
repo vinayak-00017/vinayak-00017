@@ -18,7 +18,9 @@
 
 [![An image of @vinayak0017's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vinayak0017)](https://holopin.io/@vinayak0017)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayak-00017&show_icons=true&theme=dark&locale=en&layout=compact" alt="vinayak-00017" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinayak-00017&show_icons=true&theme=dark&locale=en" alt="vinayak-00017" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayak-0017&theme=dark" alt="vinayak-0017" /></p>
+
 
 
 
