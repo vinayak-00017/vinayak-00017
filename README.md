@@ -2,7 +2,7 @@
 
 **`Fullstack Developer`**
 
- hi!!
+ hi!
 </a> </p>
 [![wakatime](https://wakatime.com/badge/user/8aec3fcb-7c54-4905-a611-7c8976532c42.svg)](https://wakatime.com/@8aec3fcb-7c54-4905-a611-7c8976532c42)
   
