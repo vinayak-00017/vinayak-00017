@@ -3,7 +3,7 @@
 **`Fullstack Developer`**
 
  hi!!<br/><br/>
- I'm a full-stack dev building real world solutions from scratch.<br/><br/> I blend creativity and code to launch projects that solve problems and shake things up.
+ I'm a full-stack dev building real world solutions from scratch.<br/><br/> I blend creativity and code to launch projects that solve problems.
 </a> </p>
 [![wakatime](https://wakatime.com/badge/user/8aec3fcb-7c54-4905-a611-7c8976532c42.svg)](https://wakatime.com/@8aec3fcb-7c54-4905-a611-7c8976532c42)
   
